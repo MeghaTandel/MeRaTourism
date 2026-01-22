@@ -1,0 +1,7 @@
+com\mycompany\meratourism\resources\JakartaEE10Resource.class
+com\gecp\servlets\DisplayServlet.class
+com\gecp\servlets\RegisterServlet.class
+com\mycompany\meratourism\JakartaRestConfiguration.class
+com\gecp\servlets\LoginServlet.class
+com\gecp\servlets\DeleteServlet.class
+com\gecp\servlets\UpdateServlet.class
